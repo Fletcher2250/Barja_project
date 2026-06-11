@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Barja_project.vcxproj" Id="b5e5d55d-de16-48ae-a6c4-09ce8652fdb3" />
+</Solution>
